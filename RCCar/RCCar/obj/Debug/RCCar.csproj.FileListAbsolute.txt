@@ -1,0 +1,29 @@
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\RCCar.Resources.resources
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\GenerateResource.read.1.tlog
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\GenerateResource.write.1.tlog
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\RCCar.Resources.tinyresources
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\TinyResGen.cache
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\le\FEZ Domino Application.exe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\be\FEZ Domino Application.exe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\le\FEZ Domino Application.pdb
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\be\FEZ Domino Application.pdb
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\FEZ Domino Application.exe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\FEZ Domino Application.pdb
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\le\FEZ Domino Application.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\le\FEZ Domino Application.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\be\FEZ Domino Application.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\be\FEZ Domino Application.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\be\FEZ Domino Application.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\be\FEZ Domino Application.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\le\FEZ Domino Application.pe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\le\FEZ Domino Application.pdbx
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\FEZ Domino Application.exe
+c:\users\dcrone\documents\visual studio 2010\Projects\RCCar\RCCar\obj\Debug\FEZ Domino Application.pdb
